@@ -16,3 +16,7 @@ Site simples de bio link para Studio AS.
 
 - A página usa Tailwind CSS via CDN.
 - O arquivo `logo.jpg` é referenciado localmente.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT, o que permite uso, cópia e modificação livre.
